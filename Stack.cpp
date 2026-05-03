@@ -14,7 +14,7 @@ class myStack {
 
 public:
 
-    // constructor
+    // constructo
     myStack(int cap) {
         capacity = cap;
         arr = new int[capacity];

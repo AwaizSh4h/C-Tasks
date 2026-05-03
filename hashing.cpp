@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-//Using Hashing- O(n) Time and O(n) Space
+//Using Hashing- O(n) Time and O(n) Spac
 
 bool checkEqual(vector<int>& a, vector<int>& b) {
     int n = a.size(), m = b.size();

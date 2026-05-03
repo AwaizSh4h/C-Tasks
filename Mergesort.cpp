@@ -3,7 +3,7 @@
 using namespace std;
 
 // Merges two subarrays of arr[].
-// First subarray is arr[left..mid]
+// First subarray is arr[left..mi]
 // Second subarray is arr[mid+1..right]
 void merge(vector<int>& arr, int left, 
                      int mid, int right){

@@ -14,7 +14,7 @@ void bubbleSort(vector<int>& arr) {
             }
         }
       
-        // If no two elements were swapped, then break
+        // If no two elements were swapped, then brea
         if (!swapped)
             break;
     }

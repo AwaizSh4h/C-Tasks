@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    // Create a doubly linked list using STL
+    // Create a doubly linked list using ST
     list<int> dll;
 
     // Insert elements at the end

@@ -9,7 +9,7 @@ void insertionSort(int arr[], int n)
         int j = i - 1;
 
         /* Move elements of arr[0..i-1], that are
-           greater than key, to one position ahead
+           greater than key, to one position ahea
            of their current position */
         while (j >= 0 && arr[j] > key) {
             arr[j + 1] = arr[j];

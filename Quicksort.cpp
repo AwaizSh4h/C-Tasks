@@ -8,7 +8,7 @@ int partition(vector<int>& arr, int low, int high) {
     int pivot = arr[high];
   
     // undex of smaller element and indicates 
-    // the right position of pivot found so far
+    // the right position of pivot found so fa
     int i = low - 1;
 
     // Traverse arr[low..high] and move all smaller

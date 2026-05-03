@@ -6,7 +6,7 @@ void selectionSort(vector<int> &arr) {
 
     for (int i = 0; i < n - 1; ++i) {
 
-        // Assume the current position holds
+        // Assume the current position hold
         // the minimum element
         int min_idx = i;
 

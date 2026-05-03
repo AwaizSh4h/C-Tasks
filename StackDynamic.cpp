@@ -12,7 +12,7 @@ public:
         arr.push_back(x);
     }
 
-    // pop operation
+    // pop operatio
     int pop() {
         if (arr.empty()) {
             cout << "Stack Underflow" << endl;

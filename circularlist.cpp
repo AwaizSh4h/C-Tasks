@@ -6,7 +6,7 @@ template <typename T> class Node {
 public:
     // Data stored in the node
     T data;
-    // Pointer to the next node in the list
+    // Pointer to the next node in the lis
     Node<T>* next;
 
     // Constructor to initialize a node with given data and

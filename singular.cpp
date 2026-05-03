@@ -20,7 +20,7 @@ class Node {
     }
 };
 
-// Linked list class to implement a singly linked list
+// Linked list class to implement a singly linked lis
 class Linkedlist {
     Node *head;
 

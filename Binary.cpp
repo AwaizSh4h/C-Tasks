@@ -21,7 +21,7 @@ int binarySearch(vector<int> &arr, int x) {
             high = mid - 1;
     }
 
-    // If we reach here, then element was not present
+    // If we reach here, then element was not presen
     return -1;
 }
 

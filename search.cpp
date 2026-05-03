@@ -6,7 +6,7 @@ using namespace std;
 
 int search(vector<int>& arr, int x) {
     
-    // Iterate over the array in order to find the index of the key x. If the key is not found, return -1.
+    // Iterate over the array in order to find the index o the key x. If the key is not found, return -1.
     for (int i = 0; i < arr.size(); i++)
         if (arr[i] == x)
             return i;

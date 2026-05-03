@@ -4,7 +4,7 @@
 #include <queue>
 using namespace std;
 struct Graph {
-    int V; // Number of vertices
+    int V; // Number of vertice
     vector<list<int>> adj; // Adjacency list
 
     // Constructor
